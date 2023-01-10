@@ -25,7 +25,7 @@ public class StudentMain {
 
         Student.printStudents(students,3); //Метод показывает какие студенты учатся на данном курсе
 
-        TreeSet<Student> studentsTree = new TreeSet<>();
+        TreeSet<Student> studentsTree = new TreeSet<>(); //Задание 5
         studentsTree.add(student);
         studentsTree.add(student2);
         studentsTree.add(student3);
